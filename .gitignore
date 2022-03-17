@@ -13,4 +13,7 @@ build/
 *.ipr
 .idea/
 
+resources/application.properties
+
+
 /bin
